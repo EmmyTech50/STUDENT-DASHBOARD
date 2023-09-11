@@ -1,2 +1,4 @@
-# smater
-![image](https://user-images.githubusercontent.com/42030004/232255590-f0c95023-91e4-49b9-ad5a-5e8c22a859f0.png)
+# student Dash-board
+its a well calculated measure of student's annual income rates
+![image](https://github.com/EmmyTech50/smater-master/assets/142992597/8ebf9a55-cbdf-4343-b40c-bbe130fc8b5a)
+
